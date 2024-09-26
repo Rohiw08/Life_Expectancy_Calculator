@@ -1,0 +1,1 @@
+// create frontend\src\firebaseConfig.js for firebase config
